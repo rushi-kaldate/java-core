@@ -77,6 +77,7 @@ public class Client {
 			if(i % 15 ==0) {
 				sum +=i;
 				System.out.println(sum);
+				System.out.println("Hii");
 			}
 		    
 
